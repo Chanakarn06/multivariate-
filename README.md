@@ -14,9 +14,22 @@
 
 อธิบายการใช้งาน Github และ Google Colab ว่าหน้าที่แต่ละอันคืออะไร และอธิบายวิธีเซฟไฟล์จาก Google Colab ลงใน GitHub
 
-## Github 
- 
-1) website Git (version control repository) ที่อยู่บน internet มีการทำงานแบบเดียวกับ Git 
+Github 
+ มีหน้าที่ 
+1) website ที่อยู่บน internet มีการทำงานแบบเดียวกับ Git 
 2)สามารถเข้าถึงข้อมูลและจัดการไปผ่าน web โดยไม่ต้องเสียเงิน 
 
 อ้างอิงจาก https://saixiii.com/what-is-github/
+
+Google Colab 
+ มีหน้าที่ 
+ 1)สามารถสร้าง Notebook เขียนโปรแกรมภาษา Python ได้ฟรี 
+ 2)สามารถใช้ในการเขียนโปรแกรมภาษา Python หรือภาษาอื่นๆ โดยที่ไม่ต้องติดตั้งโปรแกรมใดๆ
+ 
+ อ้างอิง https://www.bualabs.com/archives/1687/what-is-colab-open-jupyter-notebook-in-github-on-google-colab-create-open-in-colab-button-colab-ep-1/
+ 
+ 
+ วิธีเซฟไฟล์จาก Google Colab ลงใน GitHub
+
+ 
+ 
