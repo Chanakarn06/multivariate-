@@ -13,3 +13,10 @@
 ](url)
 
 อธิบายการใช้งาน Github และ Google Colab ว่าหน้าที่แต่ละอันคืออะไร และอธิบายวิธีเซฟไฟล์จาก Google Colab ลงใน GitHub
+
+## Github 
+ 
+1) website Git (version control repository) ที่อยู่บน internet มีการทำงานแบบเดียวกับ Git 
+2)สามารถเข้าถึงข้อมูลและจัดการไปผ่าน web โดยไม่ต้องเสียเงิน 
+
+อ้างอิงจาก https://saixiii.com/what-is-github/
