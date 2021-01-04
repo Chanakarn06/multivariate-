@@ -8,6 +8,6 @@
 
 ( ) parentheses
 
-![คำอธิบายรูป]()
+![kku_logo](KKUlogo.png)
 
 อธิบายการใช้งาน Github และ Google Colab ว่าหน้าที่แต่ละอันคืออะไร และอธิบายวิธีเซฟไฟล์จาก Google Colab ลงใน GitHub
