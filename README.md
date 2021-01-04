@@ -1,6 +1,6 @@
 # Multivariate
 
-### ชนกานต์ ID 6230210467
+# ชนกานต์ ID 6230210467
 
 .md => makedown
 
