@@ -9,7 +9,7 @@
 ( ) parentheses
 
 [
-![954253B3-1D8C-4282-9B2E-BCDA7DFC69F9](https://user-images.githubusercontent.com/76930923/103563018-a3124a80-4eee-11eb-9961-dace61eee012.jpeg)
+![รูป](https://user-images.githubusercontent.com/76930923/103563018-a3124a80-4eee-11eb-9961-dace61eee012.jpeg)
 ](url)
 
 อธิบายการใช้งาน Github และ Google Colab ว่าหน้าที่แต่ละอันคืออะไร และอธิบายวิธีเซฟไฟล์จาก Google Colab ลงใน GitHub
@@ -32,11 +32,20 @@ Google Colab
  วิธีเซฟไฟล์จาก Google Colab ลงใน GitHub
  
  
-![DE5C2A93-3E1C-42B0-BC7A-B5DD21F01E83](https://user-images.githubusercontent.com/76930923/103565310-b8897380-4ef2-11eb-8efd-018da97c92d8.jpeg)
 
-กดไปที่ตัวเลือก "ไฟล์" จากนั้นถัดลงมา ให้ไปกดที่ "บันทึกสำเนาใน github"
+ 1) กดไปที่ตัวเลือก "ไฟล์" จากนั้นถัดลงมา ให้ไปกดที่ "บันทึกสำเนาใน github"
+ 
+![ภาพ1](https://user-images.githubusercontent.com/76930923/103565310-b8897380-4ef2-11eb-8efd-018da97c92d8.jpeg)
 
 
+หลังจากนั้นจะปรากฏดังรูป 
+
+
+![ภาพ2](https://user-images.githubusercontent.com/76930923/103565569-233aaf00-4ef3-11eb-9b06-0a57df62e06e.jpeg)
+
+
+"ที่เก็บ" สามารถเลือกตามชื่อโปรเจคที่เราต้องการบันทึก
+"เส้นทางของไฟล์" และ "ข้อความคอมมิต" สามารถแก้ไขชื่อไฟล์ตามที่เราต้องการได้ 
 
 
 
