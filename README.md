@@ -8,4 +8,5 @@
 
 ( ) parentheses
 
-![alt text][logo]
+![คำอธิบายรูป]()
+
